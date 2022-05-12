@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo Hello World
+echo New Version
 exit 0
